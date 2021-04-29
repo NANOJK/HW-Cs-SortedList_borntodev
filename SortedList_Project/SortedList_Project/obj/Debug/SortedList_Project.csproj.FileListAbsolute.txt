@@ -1,0 +1,15 @@
+E:\2-01-Progamming\C#\SortedList_Project\SortedList_Project\obj\Debug\SortedList_Project.csprojAssemblyReference.cache
+E:\2-01-Progamming\C#\SortedList_Project\SortedList_Project\obj\Debug\MainWindow.g.cs
+E:\2-01-Progamming\C#\SortedList_Project\SortedList_Project\obj\Debug\App.g.cs
+E:\2-01-Progamming\C#\SortedList_Project\SortedList_Project\obj\Debug\SortedList_Project_MarkupCompile.cache
+E:\2-01-Progamming\C#\SortedList_Project\SortedList_Project\obj\Debug\SortedList_Project_MarkupCompile.lref
+E:\2-01-Progamming\C#\SortedList_Project\SortedList_Project\bin\Debug\SortedList_Project.exe.config
+E:\2-01-Progamming\C#\SortedList_Project\SortedList_Project\bin\Debug\SortedList_Project.exe
+E:\2-01-Progamming\C#\SortedList_Project\SortedList_Project\bin\Debug\SortedList_Project.pdb
+E:\2-01-Progamming\C#\SortedList_Project\SortedList_Project\obj\Debug\MainWindow.baml
+E:\2-01-Progamming\C#\SortedList_Project\SortedList_Project\obj\Debug\SortedList_Project.g.resources
+E:\2-01-Progamming\C#\SortedList_Project\SortedList_Project\obj\Debug\SortedList_Project.Properties.Resources.resources
+E:\2-01-Progamming\C#\SortedList_Project\SortedList_Project\obj\Debug\SortedList_Project.csproj.GenerateResource.cache
+E:\2-01-Progamming\C#\SortedList_Project\SortedList_Project\obj\Debug\SortedList_Project.csproj.CoreCompileInputs.cache
+E:\2-01-Progamming\C#\SortedList_Project\SortedList_Project\obj\Debug\SortedList_Project.exe
+E:\2-01-Progamming\C#\SortedList_Project\SortedList_Project\obj\Debug\SortedList_Project.pdb
